@@ -5,7 +5,7 @@ export function HomeContent() {
   return (
     <div className="flex w-full max-w-4xl flex-col space-y-6">
       <TypeWriter
-        text="Hi, I'm Patrick Carter"
+        text="Hi, I'm MD. Habibullah Misbah"
         className="text-4xl font-bold text-slate-200"
       />
       <p className="text-xl text-slate-400">
