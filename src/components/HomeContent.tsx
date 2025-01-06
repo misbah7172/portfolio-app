@@ -19,30 +19,6 @@ export function HomeContent() {
         together.
       </p>
       <NavigationButtons />
-      <div className="text-sm text-[#898989]">
-        Design inspired by{" "}
-        <code className="text-[#18B4C8]">
-          <a
-            href="https://wiscaksono.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-inherit no-underline"
-          >
-            wiscaksono.com
-          </a>
-        </code>
-        {" and "}
-        <code className="text-[#18B4C8]">
-          <a
-            href="https://itscrazydev.netlify.app/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-inherit no-underline"
-          >
-            itscrazydev.netlify.app
-          </a>
-        </code>
-      </div>
     </div>
   );
 }
